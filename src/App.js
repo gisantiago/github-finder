@@ -8,7 +8,7 @@ import User from './components/users/User';
 import Search from './components/users/Search';
 import Alert from './components/layout/Alert';
 import About from './components/pages/About';
-import { async } from 'q';
+// import { async } from 'q';
 
 class App extends Component {
   state = {
